@@ -1,0 +1,18 @@
+[
+  {
+    "id": "c-1782312033462",
+    "name": "NGUYỄN VŨ HẢI DƯƠNG",
+    "relation": "BỐ",
+    "phone": "+84559615045",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "c-1782312425321",
+    "name": "Nguyễn Chí Thanh",
+    "relation": "Bố",
+    "phone": "0976445063",
+    "priority": 2,
+    "active": true
+  }
+]

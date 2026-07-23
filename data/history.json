@@ -1,0 +1,222 @@
+[
+  {
+    "id": "a-1782398792465",
+    "timestamp": 1782398792465,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 + Gemini phát hiện té ngã. Độ tin cậy: 81.8%. Mô tả: Phát hiện té ngã bởi YOLOv8 (Gemini đã tắt).",
+    "smsSent": true,
+    "responseSeconds": 7,
+    "confidence": 81.8
+  },
+  {
+    "id": "a-1782398380213",
+    "timestamp": 1782398380213,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 + Gemini phát hiện té ngã. Độ tin cậy: 85.6%. Mô tả: Phát hiện người đang nằm trên sàn.",
+    "smsSent": true,
+    "responseSeconds": 14,
+    "confidence": 85.6
+  },
+  {
+    "id": "a-1782398333332",
+    "timestamp": 1782398333332,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 + Gemini phát hiện té ngã. Độ tin cậy: 86.2%. Mô tả: Phát hiện người đang nằm trên sàn.",
+    "smsSent": true,
+    "responseSeconds": 15,
+    "confidence": 86.2
+  },
+  {
+    "id": "a-1782397769531",
+    "timestamp": 1782397769531,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 + Gemini phát hiện té ngã. Độ tin cậy: 83.8%. Mô tả: Lỗi kết nối Gemini (HTTP Error), dùng kết quả YOLO mặc định.",
+    "smsSent": true,
+    "responseSeconds": 30,
+    "confidence": 83.8
+  },
+  {
+    "id": "a-1782397737768",
+    "timestamp": 1782397737768,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 + Gemini phát hiện té ngã. Độ tin cậy: 63.2%. Mô tả: Lỗi kết nối Gemini (HTTP Error), dùng kết quả YOLO mặc định.",
+    "smsSent": true,
+    "responseSeconds": 64,
+    "confidence": 63.2
+  },
+  {
+    "id": "a-1782397708131",
+    "timestamp": 1782397708131,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 + Gemini phát hiện té ngã. Độ tin cậy: 81.9%. Mô tả: Lỗi kết nối Gemini (HTTP Error), dùng kết quả YOLO mặc định.",
+    "smsSent": true,
+    "responseSeconds": 18,
+    "confidence": 81.9
+  },
+  {
+    "id": "a-1782397112597",
+    "timestamp": 1782397112597,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 + Gemini phát hiện té ngã. Độ tin cậy: 79.5%. Mô tả: Lỗi kết nối Gemini, dùng kết quả YOLO mặc định.",
+    "smsSent": true,
+    "responseSeconds": 16,
+    "confidence": 79.5
+  },
+  {
+    "id": "a-1782397074858",
+    "timestamp": 1782397074858,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 + Gemini phát hiện té ngã. Độ tin cậy: 83.1%. Mô tả: Lỗi kết nối Gemini, dùng kết quả YOLO mặc định.",
+    "smsSent": true,
+    "responseSeconds": 14,
+    "confidence": 83.1
+  },
+  {
+    "id": "a-1782397020969",
+    "timestamp": 1782397020969,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 + Gemini phát hiện té ngã. Độ tin cậy: 63.9%. Mô tả: Lỗi kết nối Gemini, dùng kết quả YOLO mặc định.",
+    "smsSent": true,
+    "responseSeconds": 73,
+    "confidence": 63.9
+  },
+  {
+    "id": "a-1782396990044",
+    "timestamp": 1782396990044,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 + Gemini phát hiện té ngã. Độ tin cậy: 76.4%. Mô tả: Lỗi kết nối Gemini, dùng kết quả YOLO mặc định.",
+    "smsSent": true,
+    "responseSeconds": 23,
+    "confidence": 76.4
+  },
+  {
+    "id": "a-1782396956166",
+    "timestamp": 1782396956166,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 + Gemini phát hiện té ngã. Độ tin cậy: 72.1%. Mô tả: Lỗi kết nối Gemini, dùng kết quả YOLO mặc định.",
+    "smsSent": true,
+    "responseSeconds": 15,
+    "confidence": 72.1
+  },
+  {
+    "id": "a-1782396446790",
+    "timestamp": 1782396446790,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 + Gemini phát hiện té ngã. Độ tin cậy: 70.7%. Mô tả: Lỗi kết nối Gemini, dùng kết quả YOLO mặc định.",
+    "smsSent": true,
+    "responseSeconds": 4,
+    "confidence": 70.7
+  },
+  {
+    "id": "a-1782396446164",
+    "timestamp": 1782396446164,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 + Gemini phát hiện té ngã. Độ tin cậy: 74.1%. Mô tả: Lỗi kết nối Gemini, dùng kết quả YOLO mặc định.",
+    "smsSent": true,
+    "responseSeconds": 6,
+    "confidence": 74.1
+  },
+  {
+    "id": "a-1782396441038",
+    "timestamp": 1782396441038,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 + Gemini phát hiện té ngã. Độ tin cậy: 66.7%. Mô tả: Lỗi kết nối Gemini, dùng kết quả YOLO mặc định.",
+    "smsSent": true,
+    "responseSeconds": 7,
+    "confidence": 66.7
+  },
+  {
+    "id": "a-1782396440441",
+    "timestamp": 1782396440441,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 + Gemini phát hiện té ngã. Độ tin cậy: 78.9%. Mô tả: Lỗi kết nối Gemini, dùng kết quả YOLO mặc định.",
+    "smsSent": true,
+    "responseSeconds": 13,
+    "confidence": 78.9
+  },
+  {
+    "id": "a-1782396439734",
+    "timestamp": 1782396439734,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 + Gemini phát hiện té ngã. Độ tin cậy: 66.0%. Mô tả: Lỗi kết nối Gemini, dùng kết quả YOLO mặc định.",
+    "smsSent": true,
+    "responseSeconds": 15,
+    "confidence": 66.0
+  },
+  {
+    "id": "a-1782396437220",
+    "timestamp": 1782396437220,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 + Gemini phát hiện té ngã. Độ tin cậy: 72.5%. Mô tả: Lỗi kết nối Gemini, dùng kết quả YOLO mặc định.",
+    "smsSent": true,
+    "responseSeconds": 8,
+    "confidence": 72.5
+  },
+  {
+    "id": "a-1782396432452",
+    "timestamp": 1782396432452,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 + Gemini phát hiện té ngã. Độ tin cậy: 69.1%. Mô tả: Lỗi kết nối Gemini, dùng kết quả YOLO mặc định.",
+    "smsSent": true,
+    "responseSeconds": 23,
+    "confidence": 69.1
+  },
+  {
+    "id": "a-1782396429188",
+    "timestamp": 1782396429188,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 + Gemini phát hiện té ngã. Độ tin cậy: 61.3%. Mô tả: Lỗi kết nối Gemini, dùng kết quả YOLO mặc định.",
+    "smsSent": true,
+    "responseSeconds": 36,
+    "confidence": 61.3
+  },
+  {
+    "id": "a-1782396428268",
+    "timestamp": 1782396428268,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 + Gemini phát hiện té ngã. Độ tin cậy: 65.4%. Mô tả: Lỗi kết nối Gemini, dùng kết quả YOLO mặc định.",
+    "smsSent": true,
+    "responseSeconds": 39,
+    "confidence": 65.4
+  }
+]

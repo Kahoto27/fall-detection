@@ -1,0 +1,17 @@
+ffmpeg:
+  bin: D:\Projects\Fall-detection_anti\python_server\ffmpeg.exe
+
+streams:
+  webcam: mjpeg:http://127.0.0.1:5000/video_feed
+  
+# Cấu hình API và WebUI của go2rtc
+api:
+  listen: ":1984"
+
+# RTSP Server để Python Server lấy hình ảnh phân tích
+rtsp:
+  listen: ":8554"
+
+# WebRTC dùng để Live Stream mượt mà lên giao diện Next.js
+webrtc:
+  listen: ":8555"
