@@ -1,5 +1,71 @@
 [
   {
+    "id": "a-1784798091643",
+    "timestamp": 1784798091643,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 phát hiện té ngã. Độ tin cậy: 99.0%.",
+    "smsSent": true,
+    "responseSeconds": 53,
+    "confidence": 99.0
+  },
+  {
+    "id": "a-1784798078334",
+    "timestamp": 1784798078334,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 phát hiện té ngã. Độ tin cậy: 99.0%.",
+    "smsSent": true,
+    "responseSeconds": 4,
+    "confidence": 99.0
+  },
+  {
+    "id": "a-1784797793607",
+    "timestamp": 1784797793607,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 phát hiện té ngã. Độ tin cậy: 99.0%.",
+    "smsSent": true,
+    "responseSeconds": 289,
+    "confidence": 99.0
+  },
+  {
+    "id": "a-1784797790105",
+    "timestamp": 1784797790105,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 phát hiện té ngã. Độ tin cậy: 99.0%.",
+    "smsSent": true,
+    "responseSeconds": 292,
+    "confidence": 99.0
+  },
+  {
+    "id": "a-1784797789090",
+    "timestamp": 1784797789090,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 phát hiện té ngã. Độ tin cậy: 99.0%.",
+    "smsSent": true,
+    "responseSeconds": 293,
+    "confidence": 99.0
+  },
+  {
+    "id": "a-1784797767657",
+    "timestamp": 1784797767657,
+    "severity": "fall",
+    "status": "resolved",
+    "location": "Vị trí giám sát",
+    "message": "YOLOv8 phát hiện té ngã. Độ tin cậy: 99.0%.",
+    "smsSent": true,
+    "responseSeconds": 4,
+    "confidence": 99.0
+  },
+  {
     "id": "a-1784732713750",
     "timestamp": 1784732713750,
     "severity": "fall",
@@ -145,72 +211,6 @@
   {
     "id": "a-1782524247649",
     "timestamp": 1782524247649,
-    "severity": "fall",
-    "status": "resolved",
-    "location": "Vị trí giám sát",
-    "message": "YOLOv8 phát hiện té ngã. Độ tin cậy: 99.0%.",
-    "smsSent": true,
-    "responseSeconds": 10,
-    "confidence": 99.0
-  },
-  {
-    "id": "a-1782524050542",
-    "timestamp": 1782524050542,
-    "severity": "fall",
-    "status": "resolved",
-    "location": "Vị trí giám sát",
-    "message": "YOLOv8 phát hiện té ngã. Độ tin cậy: 99.0%.",
-    "smsSent": true,
-    "responseSeconds": 14,
-    "confidence": 99.0
-  },
-  {
-    "id": "a-1782523804685",
-    "timestamp": 1782523804685,
-    "severity": "fall",
-    "status": "resolved",
-    "location": "Vị trí giám sát",
-    "message": "YOLOv8 phát hiện té ngã. Độ tin cậy: 99.0%.",
-    "smsSent": true,
-    "responseSeconds": 5,
-    "confidence": 99.0
-  },
-  {
-    "id": "a-1782523799891",
-    "timestamp": 1782523799891,
-    "severity": "fall",
-    "status": "resolved",
-    "location": "Vị trí giám sát",
-    "message": "YOLOv8 phát hiện té ngã. Độ tin cậy: 99.0%.",
-    "smsSent": true,
-    "responseSeconds": 0,
-    "confidence": 99.0
-  },
-  {
-    "id": "a-1782523796624",
-    "timestamp": 1782523796624,
-    "severity": "fall",
-    "status": "resolved",
-    "location": "Vị trí giám sát",
-    "message": "YOLOv8 phát hiện té ngã. Độ tin cậy: 99.0%.",
-    "smsSent": true,
-    "responseSeconds": 3,
-    "confidence": 99.0
-  },
-  {
-    "id": "a-1782523673195",
-    "timestamp": 1782523673195,
-    "severity": "fall",
-    "status": "resolved",
-    "location": "Vị trí giám sát",
-    "message": "YOLOv8 phát hiện té ngã. Độ tin cậy: 99.0%.",
-    "smsSent": true,
-    "responseSeconds": 11,
-    "confidence": 99.0
-  },
-  {
-    "id": "a-1782523508838",
-    "timestamp": 1782523508838,
     "severity": "fall",
     "status": "resolved",
     "location": "Vị trí giám sát",

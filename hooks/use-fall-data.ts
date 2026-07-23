@@ -59,23 +59,18 @@ type WsMessage =
 
 // ── Config ─────────────────────────────────────────────────
 
-let API_BASE = process.env.NEXT_PUBLIC_API_BASE || '/flask'
-let WS_URL   = process.env.NEXT_PUBLIC_WS_URL || ''
+let API_BASE = '/flask'
+let WS_URL   = ''
 
 if (typeof window !== 'undefined') {
-  const envApi = process.env.NEXT_PUBLIC_API_BASE
-  const envWs  = process.env.NEXT_PUBLIC_WS_URL
-  if (envApi) API_BASE = envApi
-  if (envWs) {
-    WS_URL = envWs
+  const host = window.location.hostname
+  // Nếu truy cập từ mạng LAN hoặc localhost, nối thẳng tới port 8765
+  if (host === 'localhost' || host.startsWith('192.168.') || host.startsWith('10.')) {
+    WS_URL = `ws://${host}:8765`
   } else {
-    const host = window.location.hostname
-    if (host === 'localhost' || host.startsWith('192.168.') || host.startsWith('10.')) {
-      WS_URL = `ws://${host}:8765`
-    } else {
-      const wsProtocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:'
-      WS_URL = `${wsProtocol}//${window.location.host}/ws-api`
-    }
+    // Nếu truy cập qua ngrok, đi qua Next.js proxy
+    const wsProtocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:'
+    WS_URL = `${wsProtocol}//${window.location.host}/ws-api`
   }
 }
 const RECONNECT_MS = 3000

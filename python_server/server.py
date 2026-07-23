@@ -23,6 +23,10 @@ import os
 app = Flask(__name__)
 CORS(app) # Cho phép tất cả các nguồn (bao gồm ngrok)
 
+@app.route('/')
+def index():
+    return jsonify({"status": "online", "message": "GuardFall AI Server is running", "timestamp": datetime.now().isoformat()})
+
 detector   = FallDetector()
 dispatcher = AlertDispatcher()
 

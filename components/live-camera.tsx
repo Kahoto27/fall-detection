@@ -20,8 +20,8 @@ import { cn } from '@/lib/utils'
 // ── Kiểu nguồn camera ────────────────────────────────────────
 type CamState = 'idle' | 'loading' | 'live' | 'error'
 
-const API_BASE  = process.env.NEXT_PUBLIC_API_BASE || '/flask'
-const MJPEG_URL = `${API_BASE}/video_feed`
+const MJPEG_URL = '/flask/video_feed'
+const API_BASE  = '/flask'
 
 // ── Component chính ──────────────────────────────────────────
 export function LiveCamera({ alerting }: { alerting: boolean }) {
